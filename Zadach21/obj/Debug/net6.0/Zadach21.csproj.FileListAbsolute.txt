@@ -1,0 +1,15 @@
+C:\Users\х0з9ин\Desktop\SeminarDZ№3\Zadach21\bin\Debug\net6.0\Zadach21.exe
+C:\Users\х0з9ин\Desktop\SeminarDZ№3\Zadach21\bin\Debug\net6.0\Zadach21.deps.json
+C:\Users\х0з9ин\Desktop\SeminarDZ№3\Zadach21\bin\Debug\net6.0\Zadach21.runtimeconfig.json
+C:\Users\х0з9ин\Desktop\SeminarDZ№3\Zadach21\bin\Debug\net6.0\Zadach21.dll
+C:\Users\х0з9ин\Desktop\SeminarDZ№3\Zadach21\bin\Debug\net6.0\Zadach21.pdb
+C:\Users\х0з9ин\Desktop\SeminarDZ№3\Zadach21\obj\Debug\net6.0\Zadach21.csproj.AssemblyReference.cache
+C:\Users\х0з9ин\Desktop\SeminarDZ№3\Zadach21\obj\Debug\net6.0\Zadach21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\х0з9ин\Desktop\SeminarDZ№3\Zadach21\obj\Debug\net6.0\Zadach21.AssemblyInfoInputs.cache
+C:\Users\х0з9ин\Desktop\SeminarDZ№3\Zadach21\obj\Debug\net6.0\Zadach21.AssemblyInfo.cs
+C:\Users\х0з9ин\Desktop\SeminarDZ№3\Zadach21\obj\Debug\net6.0\Zadach21.csproj.CoreCompileInputs.cache
+C:\Users\х0з9ин\Desktop\SeminarDZ№3\Zadach21\obj\Debug\net6.0\Zadach21.dll
+C:\Users\х0з9ин\Desktop\SeminarDZ№3\Zadach21\obj\Debug\net6.0\refint\Zadach21.dll
+C:\Users\х0з9ин\Desktop\SeminarDZ№3\Zadach21\obj\Debug\net6.0\Zadach21.pdb
+C:\Users\х0з9ин\Desktop\SeminarDZ№3\Zadach21\obj\Debug\net6.0\Zadach21.genruntimeconfig.cache
+C:\Users\х0з9ин\Desktop\SeminarDZ№3\Zadach21\obj\Debug\net6.0\ref\Zadach21.dll
